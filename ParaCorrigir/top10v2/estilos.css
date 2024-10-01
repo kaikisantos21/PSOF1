@@ -1,0 +1,40 @@
+*{
+    text-align: center;
+}body{
+    background-color:burlywood
+
+}
+
+img{
+     width:50%  ;     /*Largura da imagem  */
+     height:30%    ;       /*Altura da imagem  */
+     opacity:75% ;          /*Deixar a img mais clara*/
+     border:8px solid;   
+     border-color: black;
+      
+
+}
+#img1{
+    text-aling:center;
+    zoom:1,25;
+}
+ #img1:houver{
+      zoom:1;
+ }
+h1{
+    text-align:center;
+    color:brown;
+
+}
+
+h2{
+    color:black;
+
+}
+    color:black
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blue
+
+}    
